@@ -14,3 +14,5 @@
 * singleuserExplanation
   - [WR20220306](/singleuserExplanation/WR20220306.md)
   - [WR20220306copy](/singleuserExplanation/WR20220306copy.md)
+* 心理因素
+  - [HumanizedRecommenderSystemsState-of-the-artAndResearchIssues](/心理因素/HumanizedRecommenderSystemsState-of-the-artAndResearchIssues.md)
