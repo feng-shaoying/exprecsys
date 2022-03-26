@@ -7,7 +7,14 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css"> 
+  
+ <!---第三方插件，docsify侧边栏折叠   https://github.com/iPeng6/docsify-sidebar-collapse 
+folder style: <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
+ 	--->
+ <!--- arrow style--->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+
+
 </head>
 <body>
   <div id="app"></div>
@@ -19,8 +26,12 @@
       coverpage: true,
       loadNavbar: true,
       loadSidebar: true,
+      alias: {
+      '/.*/_sidebar.md': '/_sidebar.md',
+       },
       maxLevel: 4,
-      subMaxLevel: 2,
+      subMaxLevel: 3,
+      sidebarDisplayLevel: 1, // set sidebar display level
       search: {
         paths: 'auto',
         placeholder: '🔍 Type to search ',
@@ -42,6 +53,7 @@
   <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-java.min.js"></script>
   <!-- plugins -->
+  <!---第三方插件，docsify侧边栏折叠 https://github.com/iPeng6/docsify-sidebar-collapse --->
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>
