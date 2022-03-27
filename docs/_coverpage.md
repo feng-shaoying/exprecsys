@@ -6,5 +6,6 @@
 
 [![nutstore](https://badgen.net/github/stars/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://www.jianguoyun.com/d/login) [![nutupdown](https://badgen.net/github/forks/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://www.jianguoyun.com/p/De1ugIUQ4JD-CRi6yLQE)
 
-[GitHub](<https://github.com/jamifeng/exprecsys.github.io>)[Nutstore](https://www.jianguoyun.com/p/De1ugIUQ4JD-CRi6yLQE)[开始阅读](README.md)
-
+[GitHub](<https://github.com/feng-shaoying/exprecsys>)
+[Nutstore](https://www.jianguoyun.com/p/De1ugIUQ4JD-CRi6yLQE)
+[开始阅读](README.md)
