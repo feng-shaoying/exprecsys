@@ -1,18 +1,6 @@
 * [首页](/)
-* base
-  * ff1
-    - [ff11](/base/ff1/ff11.md)
-    - [ff12](/base/ff1/ff12.md)
-  * ff2
-    - [ff21](/base/ff2/ff21.md)
-    - [ff22](/base/ff2/ff22.md)
-  - [jczs1](/base/jczs1.md)
-  - [jczs2](/base/jczs2.md)
-  - [jczs3](/base/jczs3.md)
-* groupExplanation
-  - [WR20220306](/groupExplanation/WR20220306.md)
-* singleuserExplanation
-  - [WR20220306](/singleuserExplanation/WR20220306.md)
-  - [WR20220306copy](/singleuserExplanation/WR20220306copy.md)
 * 心理因素
+  - [12](/心理因素/12.md)
+  - [13](/心理因素/13.md)
+  - [GeneratingConsensusExplanationsforGroupRecommendations](/心理因素/GeneratingConsensusExplanationsforGroupRecommendations.md)
   - [HumanizedRecommenderSystemsState-of-the-artAndResearchIssues](/心理因素/HumanizedRecommenderSystemsState-of-the-artAndResearchIssues.md)
