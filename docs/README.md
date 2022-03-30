@@ -1,1 +1,4 @@
-# ExplainableRecSys可解释推荐系统
+ExplainableRecSys可解释推荐系统
+
+本文档是介绍ExplainableRecSys可解释推荐系统相关研究知识。
+
