@@ -5,4 +5,3 @@
   - [SocialUtilitiesAndPersonalityTraitsForGroupRecommendationAPilotUserStudy](/心理因素/SocialUtilitiesAndPersonalityTraitsForGroupRecommendationAPilotUserStudy.md)
   - [TowardsSocialChoice-basedExplanationsInGroupRecommenderSystems](/心理因素/TowardsSocialChoice-basedExplanationsInGroupRecommenderSystems.md)
 *  [相关论文](Papers/)
-
