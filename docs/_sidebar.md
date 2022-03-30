@@ -1,5 +1,5 @@
 * [首页](/)
-* 心理因素1
+* 心理因素
   - [HumanizedRecommenderSystemsState-of-the-artAndResearchIssues](/心理因素/HumanizedRecommenderSystemsState-of-the-artAndResearchIssues.md)
   - [GeneratingConsensusExplanationsForGroupRecommendations](/心理因素/GeneratingConsensusExplanationsForGroupRecommendations.md)
   - [SocialUtilitiesAndPersonalityTraitsForGroupRecommendationAPilotUserStudy](/心理因素/SocialUtilitiesAndPersonalityTraitsForGroupRecommendationAPilotUserStudy.md)
