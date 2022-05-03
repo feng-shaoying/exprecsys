@@ -1,4 +1,4 @@
-# Najafian and Tintarev - 2018 - Generating Consensus Explanations for Group  Recommendations1111111
+# Najafian and Tintarev - 2018 - Generating Consensus Explanations for Group  Recommendations
 
 ## 1、研究介绍
 
