@@ -4,5 +4,6 @@
   - [GeneratingConsensusExplanationsForGroupRecommendations](/心理因素/GeneratingConsensusExplanationsForGroupRecommendations.md)
   - [SocialUtilitiesAndPersonalityTraitsForGroupRecommendationAPilotUserStudy](/心理因素/SocialUtilitiesAndPersonalityTraitsForGroupRecommendationAPilotUserStudy.md)
   - [TowardsSocialChoice-basedExplanationsInGroupRecommenderSystems](/心理因素/TowardsSocialChoice-basedExplanationsInGroupRecommenderSystems.md)
+*  [Personality](/Personality)
 *  [相关论文](Papers/)
 
