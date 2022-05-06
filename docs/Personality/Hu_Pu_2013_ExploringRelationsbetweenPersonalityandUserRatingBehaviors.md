@@ -80,9 +80,11 @@ Big Five Inventory (BFI, 44项)用于评估用户的性格(Big Five Personality 
 ### 3.2 Personality in different behavior groups
 
 在本节中，我们将深入研究评价数量的长尾。图1绘制了评价项目数量的分布。x轴表示评价项目的数量，y轴表示参与者的数量。正如我们从分布中看到的，大多数参与者(86个中的28个)只对要求的30个项目打分。我们将这个组定义为“**obligation group义务组**”，因为此区域内的用户刚刚完成了他们要求的任务。几乎同等数量的参与者比要求的数量稍多(1到2项)，即31项或32项。这一组被定义为"**inertia group惯性组**"，它可能受到所要求的评价数目的影响。在那之后，很少有用户评价更多。我们将这个长尾分成两部分，参与者数量相等，这样两组就有足够的参与者进行有意义的统计分析。我们有一个合理的分界点，50个项目评价数。这两个组分别被称为“**dispersion group扩散组**”和“**explosion group爆发组**”，这是基于他们给出的评价的数量。我们很好奇这四组人是否代表着不同的评价行为模式，不同的性格。
+
 ![](https://fengshaoying.oss-cn-shanghai.aliyuncs.com/images/202205061209357.png)
 
 我们进行了单因素方差分析，将评价组作为IVs，将性格特征得分作为DVs，然后进行事后两两比较(Bonferroni)，以确定这四组性格特征之间的差异。四个评价组中每个性格特质的平均得分如图2所示。
+
 ![](https://fengshaoying.oss-cn-shanghai.aliyuncs.com/images/202205061210283.png)
 
 
